@@ -1,5 +1,6 @@
 version: 1.2
 workflows:
+name: WDL101
  - subclass: WDL
    primaryDescriptorPath: /wdl-101-bam.wdl
    # testParameterFiles:
